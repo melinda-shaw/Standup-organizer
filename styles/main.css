@@ -7,3 +7,10 @@ html {
   color: #FAFAFA;
   padding: 1rem;
 }
+
+.bg-image {
+  background-image: url('../assets/bg.jpg');
+  height: 30vh;
+  background-position: center;
+  background-size: cover;
+}
