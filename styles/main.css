@@ -14,3 +14,10 @@ html {
   background-position: center;
   background-size: cover;
 }
+
+element.style {
+  color: orange;
+  border-radius: 50%;
+  background: blue;
+  padding: 40px;
+}
